@@ -14,6 +14,10 @@
 import React from 'react';
 import Navbar from './Navbar';
 
-function App() {}
+function App() {
+  <>
+    <Navbar></Navbar>
+  </>;
+}
 
 export default App;
